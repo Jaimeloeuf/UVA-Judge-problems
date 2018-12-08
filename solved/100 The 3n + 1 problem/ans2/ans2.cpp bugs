@@ -1,0 +1,2 @@
+when input is a char, 
+the program will generate a infinite loop of same numbers.
